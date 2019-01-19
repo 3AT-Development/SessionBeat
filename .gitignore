@@ -1,0 +1,9 @@
+/.idea
+/build
+
+.DS_Store
+/sessionbeat
+/sessionbeat.test
+*.pyc
+_meta/kibana.generated/6/index-pattern/sessionbeat.json
+logs/sessionbeat
